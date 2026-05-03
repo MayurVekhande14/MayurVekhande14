@@ -24,4 +24,3 @@ Web development graduate who works with React.js on the frontend and Django on t
 ---
 [![](https://komarev.com/ghpvc/?username=MayurVekhande14&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
